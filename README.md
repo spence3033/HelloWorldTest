@@ -6,8 +6,6 @@ This repository is a test run to create a public Github repository and make sure
 
 This program is the classic Hello World test run.
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/_Ax-rUJuFIg)
 
 # Development Environment
@@ -18,6 +16,5 @@ I am programming in python.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://video.byui.edu/media/t/1_zyyx43ke)
 * [Web Site Name](https://github.com/)
